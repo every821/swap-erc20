@@ -1,5 +1,3 @@
-# [EthSwap](https://eth-swap-exchange.herokuapp.com/)
-
 ### A platform to exchange ERC20 tokens and Ether
 
 ##### \*Completed my following Gregory from [DApp University](https://www.dappuniversity.com/)
@@ -11,5 +9,3 @@
       2. Install all the dependencies using "npm i" in your terminal
       3. Start by typing "npm run start" in your terminal
       4. Refresh browser after your transaction gets accepted in Metamask
-
-##### For any issues reach out to me at: parv3213@gmail.com
